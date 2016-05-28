@@ -5,4 +5,4 @@ This showcase builds on SneakyPeet's original work on [EasyEventSourcing](https:
 * Dependency injection via [Autofac](http://autofac.org/)
 * Web api for application interaction ([Swagger UI](http://swagger.io/swagger-ui/) as the default startup home page)
 
-Like the original *EasyEventSourcing*, *WebEasyEventSourcing* also uses an in memory event store.
+Like the original **EasyEventSourcing**, **WebEasyEventSourcing** also uses an in memory event store.
